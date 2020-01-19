@@ -1,24 +1,13 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { StatusBar } from 'react-native';
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#7159c1',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  text: {
-    fontSize: 26,
-    color: '#FFF',
-    fontWeight: 'bold',
-  },
-});
+import Routes from './src/routes';
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text style={styles.text}>Welcome to Nubank!</Text>
-    </View>
+    <>
+      <StatusBar barStyle="light-content" backgroundColor="#8B10AE" />
+      <Routes />
+    </>
   );
 }
