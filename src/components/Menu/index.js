@@ -26,7 +26,7 @@ export default function Menu({ translateY }) {
     >
       <Code>
         <QRCode
-          value="https://github.com.br/eduardo3g"
+          value="https://github.com/eduardo3g"
           logoSize={80}
           logoBackgroundColor="#8B10AE"
         />
