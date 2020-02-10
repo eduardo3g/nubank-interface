@@ -1,5 +1,5 @@
 # Nubank Clone
-As a tribute to Nubank, a company that reinvented the banking industry, I recreated the homepage of the mobile application
+As a tribute to Nubank, a company that reinvented the banking industry, I recreated the homepage of their mobile application
 with React Native 💜
 
 # Technologies
@@ -25,7 +25,7 @@ get the dependencies this project uses.
 <br /><br />
 Now run `yarn start` to start the application. A new window will be opened on your default browser.
 <br /><br />
-Scan the QR Code on the left bottom side of the web page with you cellphone camera.
+Scan the QR Code on the left bottom side of the web page with your cellphone camera.
 <br /><br />
 A notification will appear on your cellphone screen, requesting you to open it on <b>Expo Client</b> app.
 <br /><br />
