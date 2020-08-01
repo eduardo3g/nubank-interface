@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img alt="Nubank Logo" title="Nubank" src="./.github/nubank-logo.png" width="200px" />
+</p>
+
 <h1 align="center">
   Nubank
 </h1>
