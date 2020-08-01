@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Nubank Clone
 As a tribute to Nubank, a company that reinvented the banking industry, I recreated the homepage of the mobile application
 with React Native 💜
@@ -76,6 +75,5 @@ Just wait a few seconds to download all the depencencies and then you're done �
 This is how Nubank clone looks like 😊
 
 <p align="center">
-  <img src="https://scontent.fcgh7-1.fna.fbcdn.net/v/t1.0-9/s960x960/82290927_2613010272261269_7521055186375147520_o.jpg?_nc_cat=100&_nc_ohc=wWMW0kS9SaYAX-jykH3&_nc_ht=scontent.fcgh7-1.fna&_nc_tp=1002&oh=0570cc2edec5e9bc40f56c718b0f627f&oe=5E9A159E" alt="Nubank clone by eduardo3g" />
+  <img src="./.github/preview.jpg" alt="Nubank clone by eduardo3g" />
 </p>
->>>>>>> bb204433218f929726fd4a8b85d88a2d7b7b04a5
