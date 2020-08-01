@@ -3,10 +3,6 @@
   <img alt="Nubank Logo" title="Nubank" src="./.github/nubank-logo.png" width="200px" />
 </p>
 
-<h1 align="center">
-  Nubank
-</h1>
-
 As a tribute to Nubank, a company that reinvented the banking industry, I recreated the homepage of the mobile application
 with React Native 💜
 
